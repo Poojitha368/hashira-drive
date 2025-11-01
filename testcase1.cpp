@@ -15,6 +15,7 @@ int charToInt(char c) {
     else return -1; // error
 }
 
+
 // Convert a number string in any base (up to 16) to decimal (unsigned long long)
 unsigned long long convertToDecimal(const std::string& valueStr, int base) {
     unsigned long long result = 0;

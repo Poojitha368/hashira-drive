@@ -11,6 +11,7 @@ int charToInt(char c) {
     else if (c >= 'a' && c <= 'f') return 10 + (c - 'a');
     else if (c >= 'A' && c <= 'F') return 10 + (c - 'A');
     return -1;
+    
 }
 
 // Convert string number in given base to decimal (unsigned long long)

@@ -1,5 +1,6 @@
 import json
 
+
 # Corrected sample JSON input without extra braces
 json_data = {
     "keys": {

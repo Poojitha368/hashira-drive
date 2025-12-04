@@ -7,6 +7,7 @@ x2, y2 = 3, 18
 
 
 
+
 # Step 1: Calculate denominators for basis polynomials L0, L1, L2
 d0 = (x0 - x1) * (x0 - x2)
 print(f'd0 = (x0 - x1)*(x0 - x2) = ({x0} - {x1})*({x0} - {x2}) = {d0}')

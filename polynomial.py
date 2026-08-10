@@ -17,7 +17,6 @@ d2 = (x2 - x0) * (x2 - x1)
 print(f'd2 = (x2 - x0)*(x2 - x1) = ({x2} - {x0})*({x2} - {x1}) = {d2}')
 
 
-
 # Step 2: Define basis polynomials L0, L1, L2 as functions of x
 def L0(x):
     numerator = (x - x1) * (x - x2)

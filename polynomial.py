@@ -1,5 +1,4 @@
 
-
 # Given points
 x0, y0 = 1, 6
 x1, y1 = 2, 11
